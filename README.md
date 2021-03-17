@@ -1,6 +1,6 @@
-### Hi I Am Harvey A Games Development Student At Staffordshire University 👋
+## Hi I Am Harvey A Games Development Student At Staffordshire University 👋
 
-# Currently learning OpenGL and SDL as part of my University course.
+#### Currently learning OpenGL and SDL as part of my University course.
   2021 Gaols
   - Finish more projects ➖
   - Take part in first game jam ✅
