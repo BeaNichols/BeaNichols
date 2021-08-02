@@ -2,9 +2,8 @@
 
 #### Currently learning OpenGL and SDL as part of my University course.
   2021 Gaols
-  - Finish more projects ➖
+  - Finish more projects ➖ ✅
   - Take part in first game jam ✅
-  - Learn blender ➖
   - Share more work ✅
 
 [<img align="left" alt="hmilner1.com" width="22px" src="https://www.pngkey.com/png/full/18-185192_png-50-px-website-icon-blue.png" />][website]
