@@ -3,8 +3,7 @@
 #### Currently researching active ragdolls and unreal engine part of my University course.
   2022 Gaols
   - Finish more projects ✅
-  - Take part in Third game jam ✅
-  - Share more work on social media ✅
+  - Take part in more game jams ✅
 
 [<img align="left" alt="hmilner1.com" width="22px" src="https://www.pngkey.com/png/full/18-185192_png-50-px-website-icon-blue.png" />][website]
 [<img align="left" alt="Harvey Milner | YouTube" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png" />][youtube]
