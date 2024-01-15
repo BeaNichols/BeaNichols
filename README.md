@@ -1,6 +1,6 @@
-## Hi I Am Harvey A Masters Student At Staffordshire University 👋
+## Hi I Am Harvey A Games Programming Masters Student 👋
 
-#### Currently researching active ragdolls and unreal engine part of my University course.
+#### Currently researching VR and improving at Unreal Engine 
   2024 Gaols
   - Graduate
   - Take part in more game jams
