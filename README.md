@@ -1,4 +1,4 @@
-## Hi I Am Harvey A Games Programming Masters Student 👋
+## Hi I Am Beatrice A Games Programming Masters Graduate 👋
 
 #### Currently researching VR and improving at Unreal Engine 
   2024 Gaols
@@ -13,7 +13,6 @@
 
 
 
-[website]: https://hmilner1.github.io/
+[website]: https://beamilner.net
 [youtube]: https://www.youtube.com/channel/UCfWqyN8Cv6OhaF42kvnN_zA
-[twitter]: https://twitter.com/HarveyMilner3
-[linkedin]: https://www.linkedin.com/in/harvey-milner-62a5961ba/
+[linkedin]: https://www.linkedin.com/in/beatrice-nichols-4b818a35b/
