@@ -1,6 +1,6 @@
 ## Hi I Am Beatrice A Games Programming Masters Graduate 👋
 
-#### Currently researching VR and improving at Unreal Engine 
+#### Currently Working On Personal Projects And Getting A Job
   2024 Gaols
   - Graduate
   - Take part in more game jams
